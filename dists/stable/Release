@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Wed, 14 Oct 2026 21:38:14 +0000
+Description: APT repository for zgit
+Label: zgit
+Origin: zaidejjo
+Suite: stable
+MD5Sum:
+ c12d6ff07648c713a87e6612599b5216              179 Release
+ 378d6574d3747460b5460e2ac6168937             1270 main/binary-amd64/Packages
+ 0c3a4ace24350794af8c3c72975780a2              661 main/binary-amd64/Packages.gz
+ 378d6574d3747460b5460e2ac6168937             1270 main/binary-arm64/Packages
+ 0c3a4ace24350794af8c3c72975780a2              661 main/binary-arm64/Packages.gz
+SHA1:
+ 44f54dc85161d5d09739a2371f204ed8ea0d1e60              179 Release
+ f379ba789f1eedb956c550684be4938e02bbc625             1270 main/binary-amd64/Packages
+ 02e7062c3aaae1b3790ce1e8c5087bc501036030              661 main/binary-amd64/Packages.gz
+ f379ba789f1eedb956c550684be4938e02bbc625             1270 main/binary-arm64/Packages
+ 02e7062c3aaae1b3790ce1e8c5087bc501036030              661 main/binary-arm64/Packages.gz
+SHA256:
+ 67971b41eea447b60c4e1153dc5292ee181ee57983d8376d453f29dbca8cc75a              179 Release
+ 898f276927cee03405201e295d2f8741886b630c642af00f1b34269672b8d4e1             1270 main/binary-amd64/Packages
+ bc542ff3ec0f30c98216bbd6c2dde9123871be4e611c0ff009b2f3948574ec77              661 main/binary-amd64/Packages.gz
+ 898f276927cee03405201e295d2f8741886b630c642af00f1b34269672b8d4e1             1270 main/binary-arm64/Packages
+ bc542ff3ec0f30c98216bbd6c2dde9123871be4e611c0ff009b2f3948574ec77              661 main/binary-arm64/Packages.gz
+SHA512:
+ 54e15fe6756bc69860aec6d832418e81f82a63cc03a05009a15c93497bb9672268981e4878df607c2d0da26e5619ded85b9be651bfba8e21d310eefa3716561c              179 Release
+ c5403d349667039c1f93316cde30e7ec1f4b906818d664310489a42e13638ecdd4904820d015ecf1446e20b70d2fd273059a49ad82579f4086449c242d9a2489             1270 main/binary-amd64/Packages
+ dbb8def9ef7a62f3d0e06224e37a0301c1cffc9e3da39578367233f3ff860d35bf3fa5c106c592486cb3c2e1109d97e751db41064f463a24db9a9e371cf7298a              661 main/binary-amd64/Packages.gz
+ c5403d349667039c1f93316cde30e7ec1f4b906818d664310489a42e13638ecdd4904820d015ecf1446e20b70d2fd273059a49ad82579f4086449c242d9a2489             1270 main/binary-arm64/Packages
+ dbb8def9ef7a62f3d0e06224e37a0301c1cffc9e3da39578367233f3ff860d35bf3fa5c106c592486cb3c2e1109d97e751db41064f463a24db9a9e371cf7298a              661 main/binary-arm64/Packages.gz

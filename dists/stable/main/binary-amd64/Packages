@@ -1,0 +1,34 @@
+Package: zgit
+Architecture: amd64
+Version: 0.3.0
+Priority: optional
+Section: vcs
+Maintainer: zaidejjo
+Depends: git
+Filename: pool/zgit_0.3.0_amd64.deb
+Size: 3392862
+MD5sum: 95d6289cbe85a12db616fcdcd193db45
+SHA1: 66652a8909664c650600cd7d13bf1ea04b53ce47
+SHA256: 20aac19f07cf33cd475e8897f42be8c66d42a9f6f109d64dcc734b8b34da4099
+SHA512: 1f5173794986a96b6f7e45690c8cafb08345f55ad11cda37f97d859bab5141530e62501a9be78c62f0ec8d241590e44d07e143b85c829278ea9e05ecfc7d0591
+Description: Modern, fast Git and GitHub client
+ TUI and desktop companion for Git and GitHub workflows:
+ status, log, branches, worktrees, PRs, issues and AI assistance.
+
+Package: zgit
+Architecture: arm64
+Version: 0.3.0
+Priority: optional
+Section: vcs
+Maintainer: zaidejjo
+Depends: git
+Filename: pool/zgit_0.3.0_arm64.deb
+Size: 3026770
+MD5sum: d148dc7deed208bac78cd54784878b17
+SHA1: e2820af3bf91402f09014ce12b56d36bbac33d9d
+SHA256: 61850dcbe79d0eddae521ae4b5618b23ce3a19a4d693557a9a318625d18fe8a8
+SHA512: a7ada5025e0c46cd09074537827d032c3c5329825e757a3ec1bf9b72ea2dd0b7740c8b8d2b925c5bc6453f99113164ca68e62d4a338c6acaab5245bcb7233c61
+Description: Modern, fast Git and GitHub client
+ TUI and desktop companion for Git and GitHub workflows:
+ status, log, branches, worktrees, PRs, issues and AI assistance.
+
